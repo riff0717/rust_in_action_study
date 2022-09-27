@@ -1,5 +1,4 @@
-# this is readme.md for ch2-read-file.rs/ch2-bufreader-lines.rs
-hoge
-fuga
- 
-` hoge fugo`
+Every face, every shop bedroom window, publlic-house, and
+dark square is picture feverishly turnes--in search of what?
+It is the same with books.
+What do we seek through millions of pages?
