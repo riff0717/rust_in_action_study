@@ -1,6 +1,6 @@
 #![allow(unused_variables)]
 
-type File = Stringl
+type File = String;
 
 fn open(f: &mut File) -> bool {
     true
